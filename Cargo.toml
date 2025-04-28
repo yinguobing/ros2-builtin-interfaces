@@ -1,0 +1,12 @@
+[package]
+name = "ros2_builtin_interfaces"
+version = "0.1.0"
+edition = "2021"
+description = "essage definitions for types in the OMG IDL Platform Specific Model"
+license = "MIT OR Apache-2.0"
+keywords = ["ros", "ros2"]
+categories = ["science::robotics"]
+repository = "https://github.com/yinguobing/ros2-builtin-interfaces"
+
+[dependencies]
+serde = { version = "1.0.219", features = ["derive"] }
