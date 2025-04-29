@@ -1,12 +1,17 @@
-#ROS2 Builtin Interfaces For Rust
+# ROS2 Builtin Interfaces For Rust
 
-This crate provides ROS2 builtin interfaces for Rust.
+Message definitions for types in the OMG IDL Platform Specific Model, for Rust.
 
 # Usage
 Add the following to your `Cargo.toml`:
 ```toml
 [dependencies]
 ros2_builtin_interfaces = "0.1.0"
+```
+
+or using `cargo`:
+```bash
+cargo add ros2_builtin_interfaces
 ```
 
 In your code:

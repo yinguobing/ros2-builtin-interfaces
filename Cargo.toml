@@ -2,7 +2,7 @@
 name = "ros2_builtin_interfaces"
 version = "0.1.0"
 edition = "2021"
-description = "essage definitions for types in the OMG IDL Platform Specific Model"
+description = "ROS2 Builtin Interfaces For Rust"
 license = "MIT OR Apache-2.0"
 keywords = ["ros", "ros2"]
 categories = ["science::robotics"]
