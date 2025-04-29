@@ -1,6 +1,6 @@
 [package]
 name = "ros2_builtin_interfaces"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "ROS2 Builtin Interfaces For Rust"
 license = "MIT OR Apache-2.0"
